@@ -1,0 +1,7 @@
+aws
+azure
+requests
+scapy
+python-nmap
+beautifulsoup4
+cm
